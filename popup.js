@@ -11,3 +11,5 @@ function closeexitpopup() {
     document.getElementById('exitpopup').style.display = 'none';
     document.getElementById('cover').style.display = 'none';
 }
+
+// This js file
